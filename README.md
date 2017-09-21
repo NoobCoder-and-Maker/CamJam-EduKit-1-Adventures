@@ -11,4 +11,6 @@ My name is George and I have developed this website to showcase my electronic pr
 
 ## My twiter handle is @NoobCoder_Maker
 
+## [What about my blog, over at NoobCodersBlog.gq!](http://noobcodersblog.gq)
+
 ### [Here's a new link using my new NoobCodersCamjamAdventures.gq Domain name!](http://noobcoderscamjamadventures.gq)
