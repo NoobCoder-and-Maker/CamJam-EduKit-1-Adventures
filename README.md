@@ -1,4 +1,4 @@
-![My Logo](/images/NoobCoder_logo_latest_80x60mm.png)
+![My Logo](/images/NoobCoder_logo_latest_80x60mm_B.png)
 
 # NoobCoders-experiments-with-the-CamJam-EduKit
 NoobCoder &amp; Maker's adventures with the Raspberry Pi and the CamJam Edukit.
