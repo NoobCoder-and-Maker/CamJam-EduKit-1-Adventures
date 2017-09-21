@@ -8,7 +8,7 @@ My name is George and I have developed this website to showcase my electronic pr
 
 # [Here's my NoobCoder-and-Maker.github.io/Mainpage!](https://noobcoder-and-maker.github.io)
 
-# [Here's a link to my CamJam experiments website GO GO GO!](https://noobcoder-and-maker.github.io/NoobCoders-experiments-with-the-CamJam-EduKit/)
+# [Here's a link to my CamJam experiments website GO GO GO!](https://noobcoder-and-maker.github.io/CamJam-EduKit-1-Adventures/)
 
 ## My twiter handle is @NoobCoder_Maker
 
