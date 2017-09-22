@@ -7,8 +7,56 @@
         <style>
         .container {
             width: 1890px;
-            height: 3000px;
+            height: auto;
+            border: 0px solid red;
             }
+
+        .containerA {
+            z-index: 3;
+            width: 1890px;
+            height: 200px;
+            border: 0px solid red;
+            }
+
+        .containerB {
+            z-index: 3;
+            width: 1890px;
+            height: 200px;
+            border: 0px solid red;
+            }
+
+        .containerC {
+            z-index: 1;
+            width: 1890px;
+            height: 130px;
+            border: 0px solid red;
+            }
+
+        .containerproject1 {
+            z-index: 1;
+            width: 1890px;
+            height: 1000px;
+            border: 0px solid red;
+            }
+
+        .containerproject2 {
+            z-index: 1;
+            width: 1890px;
+            height: 600px;
+            border: 0px solid red;
+            }
+        .containerproject3 {
+            z-index: 1;
+            width: 1890px;
+            height: 600px;
+            border: 0px solid red;
+            }
+        .containerfooter {
+            z-index: 1;
+            width: 1890px;
+            height: 45px;
+            border: 0px solid red;
+            }        
         body {
             background-color:#D6C8C4;
             width: 1890px;
@@ -18,10 +66,10 @@
         .LOGO {
             position: absolute;
             z-index: 1;
-            margin-left: 50px;
-            margin-top: -210px;
+            margin-left: -900px;
+            margin-top: 5px;
             width: 410px;
-            height: 200px;
+            height: 190px;
         }
         .Box1 {
             position: absolute;
@@ -30,7 +78,7 @@
             margin-left: 1270px;
             margin-top: 0px;
             width: 620px;
-            height: 3000px;
+            height: 2770px;
             }
 
         .Box2 {
@@ -40,7 +88,7 @@
             margin-left: 0px;
             margin-top: 0px;
             width: 600px;
-            height: 3000px;
+            height: 2770px;
             }
 
         h1 {
@@ -101,13 +149,15 @@
             text-indent: 10px;
             }
 
-        .ProjectsHeading {                   
+        .ProjectsHeading {
+            position: absolute;                   
             background-color:#AECCAA;
             z-index: 1;
             border: 1px solid #918B8F;
             box-sizing: border-box;
             width: 320px;
             margin-left: 70px;
+            margin-top: 20px;
             height: 32px;    
             padding: px;
             font-family:cursive;
@@ -121,7 +171,7 @@
             position: relative;
             z-index: 2;
             margin-left: 50px;
-            margin-top: 20px;
+            margin-top: 80px;
             width: 350px;
             height: 230px;
             border: 1px solid #9DC3C1;
@@ -143,7 +193,7 @@
             width: 900px;
             height: auto;
             margin-left: 500px;
-            margin-top: -280px;
+            margin-top: -250px;
             padding: 20px;
             font-style: normal;
             font-size: 13pt;
@@ -160,7 +210,6 @@
             width: 160px;
             margin-left: 1550px;
             height: 32px;    
-            padding: px;
             font-family:cursive;
             font-style: normal;
             font-size: 15pt;
@@ -185,36 +234,35 @@
  
         footer {
             padding: 10px;
-            color: white;
+            color: #918B8F;
             border: 2px solid #9DC3C1;
             background-color: #9DC3C1;
             clear: left;
             text-align: center;
-            margin-top: 590px;
+            margin-top: 0px;
             }
         </style>
    
     </head>
     
-            <!-- Palettable colours in use:- #D6C8C4, #F9DED1, #AECCAA, #DFD9B8, #918B8F -->
+        <!------------------------------------ Palettable colours in use:- #D6C8C4, #F9DED1, #AECCAA, #DFD9B8, #918B8F -->
     
 <body>
     <div class="container">
-        <div class="Box1">
+            <div class="Box1">
             </div>
             <div class="Box2">
-                </div>
-           <!-- PAGE HEADER -------------------------------------------------------------->        
+            </div>
+        <!----------------------------------------------------------- PAGE HEADER -------------------------------------------------------------->        
         <div>    
-        <div class="PageHeading">
+            <div class="PageHeading containerA">
+            <img class="LOGO" src="images/NoobCoder_logo_latest_80x60mm_B.png" alt="NoobCoder LOGO">
             <h1>*NoobCoder and Maker*</h1>
             <h2>CamJam EduKit 1 experiments</h2>
         </div>
-         <img class="LOGO" src="images/NoobCoder_logo_latest_80x60mm_B.png" alt="NoobCoder LOGO">
-           <!-- INTRO PARAGRAPH ---------------------------------------------------------->        
-            
-            
-        <div class="MainText" >
+         
+        <!----------------------------------------------------------- INTRO PARAGRAPH ---------------------------------------------------------->           
+        <div class="MainText containerB" >
             <p> Hi there, thanks for stopping by.<br> My name is George and I have developed this website to showcase my electronic projects, along with the coding sources that I 
                 have used, or created, to run them. Initially I will be working with both the Raspberry Pi 3 and the Pi zero boards using the 'Python' programming language making 
                 use of the components from the 'CamJam' series of kits.</p> 
@@ -226,26 +274,20 @@
             </p>
         </div>
    
-           <!--  PROJECT HEADER  ------------------------------------------------------>          
-            
-            
-        <div class="ProjectsTitle" style="position: absolute">
+        <!------------------------------------------------------------ PROJECT HEADER  ---------------------------------------------------------------------------->                     
+        <div class="containerC">    
+            <div class="ProjectsTitle" style="position: absolute">
             Projects
+            </div>
         </div>
-        
-           <!--PROJECT NUMBER 1 ProjectsHeading sets absolute position------------------------------------------------------------------>
-    
-        <div class="ProjectsHeading" style="margin-top: 100pt">
+        <!-------------------------------- PROJECT NUMBER 1 ProjectsHeading sets absolute position------------------------------------------------------------------>
+        <div class="containerproject1">
+            <div class="ProjectsHeading">
             1. "Hello World" Blink an LED
-        </div>
-            
-
-            
-        <img class="img-type1" src="images/ezgif.com-video-to-gif.gif" alt="Blink an LED">
-
-        <img class="img-type2" src="images/blink.jpg" alt="Blink an LED wiring guide" style="margin-top: 210pt; margin-left: -320px; position:absolute" >
-            
-        <div class="ProjectArticle">
+            </div>           
+            <img class="img-type1" src="images/ezgif.com-video-to-gif.gif" alt="Blink an LED">
+            <img class="img-type2" src="images/blink.jpg" alt="Blink an LED wiring guide" style="margin-top: 310pt; margin-left: -320px; position:absolute" >
+            <div class="ProjectArticle">
                 Equipment Required:-
                 <ol>
                     <li>Your Raspberry Pi</li>
@@ -275,11 +317,11 @@
                     <p>On your Pi, open the Python3 IDLE, create a new text file and save it as 3-blink-forever.py. Either type out or copy and paste the code, in the box to the right.</p>
                     <p>Run the code by selecting the Run Module menu option, under the Run menu item, or you can just press the F5 key. You will see the three LEDs turn on then turn off forever, 
                         or until you press “Ctrl+c”. If there is an error in the code, change the code and resave it. Re-run to check that you have corrected the error.</p>
-        </div>
-        <div class="CodeboxHeading" style="margin-top: -530pt" style="position:absolute">
+            </div>
+            <div class="CodeboxHeading" style="margin-top: -530pt" style="position:absolute">
             Python Code.
-        </div>
-        <pre class="Codebox" style="margin-top: -650px">
+            </div>
+            <pre class="Codebox" style="margin-top: -650px">
 # CamJam Edukit 1 - Basics
 # Worksheet 3 - Making LEDs blink with Python
 # Import Libraries
@@ -310,54 +352,43 @@ green.off()
                             
 # Wait for 1 second
 time.sleep(1)
-</pre>  
-
-<!--   PROJECT NUMBER 2 ProjectsHeading sets absolute position-------------------------------------------------------->      
-            
-        <div class="ProjectsHeading" style="margin-top: 200pt" style="position:absolute">
+            </pre>  
+        </div>
+        <!---------------------------------------- PROJECT NUMBER 2 ProjectsHeading sets absolute position-------------------------------------------------------->      
+        <div class="containerproject2">    
+            <div class="ProjectsHeading">
             2. CamJam edukit 2 Sensors kit
             </div>
             
-        
-            
-        <img class="img-type1" src="images/EduKit_2_600x440.jpg" alt="Camjam Edukit 2";>
-
-            
-        <div class="ProjectArticle">
+            <img class="img-type1" src="images/EduKit_2_600x440.jpg" alt="Camjam Edukit 2";>
+      
+            <div class="ProjectArticle">
             <p> Hi there, thanks for stopping by.<br> My name is George and I have developed this website to showcase my electronic projects, along with the coding that I have created to run them.</p>
             <p>Initially I will be working with both the Raspberry Pi 3 and the Pi zero boards using the 'Scratch' programming language, later, progressing on to using 'Python 3'. At some stage I 
                 will also be working with the 'Arduino' platform using the Arduino Uno, Arduino Nano, Adafruit Trinket and the Adafruit Pro Trinket.</p>
-        </div>
+            </div>
      
-        <pre  class="Codebox" style="margin-top: -100px">
-        </pre>   
-            
-            
-            
-           <!--   PROJECT NUMBER 3 ProjectsHeading sets absolute position-------------------------------------------------------->       
-            
-            
-        <div class="ProjectsHeading" style="margin-top: 200pt" style="position:absolute">
+            <pre  class="Codebox" style="margin-top: -100px">
+            </pre>   
+        </div>      
+        <!---------------------------------------   PROJECT NUMBER 3 ProjectsHeading sets absolute position-------------------------------------------------------->           
+        <div class="containerproject3">  
+            <div class="ProjectsHeading">
             3. CamJam edukit 3 robotics
             </div>
-            
-        
-            
-        <img class="img-type1" src="images/Edukit_3_1500.jpg" alt="Camjam Edukit 1";>
-
-            
-        <div class="ProjectArticle">
+            <img class="img-type1" src="images/Edukit_3_1500.jpg" alt="Camjam Edukit 1";>    
+            <div class="ProjectArticle">
             <p> Hi there, thanks for stopping by.<br> My name is George and I have developed this website to showcase my electronic projects, along with the coding that I have created to run them.</p>
             <p>Initially I will be working with both the Raspberry Pi 3 and the Pi zero boards using the 'Scratch' programming language, later, progressing on to using 'Python 3'. At some stage I will 
                 also be working with the 'Arduino' platform using the Arduino Uno, Arduino Nano, Adafruit Trinket and the Adafruit Pro Trinket.</p>
-        </div>
-
-        <pre class="Codebox" style="margin-top: -100px">
-        </pre>    
-           
+            </div>
+            <pre class="Codebox" style="margin-top: -100px">
+            </pre>    
+        </div>   
     </div>
-            <!--   FOOTER ------------------------------------------------------------------>
-            
-    <footer>Copyright &copy; George Baker</footer>
+        <!------------------------------------------------------------------------------- FOOTER ------------------------------------------------------------------>
+        <div class="containerfooter">    
+            <footer>Copyright &copy; George Baker</footer>
+        </div>
 </body>
 </html>
