@@ -1,0 +1,311 @@
+/* NoobCoderStylesheet.css */
+
+        /* page2   */
+        .ContainerCamJamPage {
+            width: 1890px;
+            height: 3200px;
+            border: 0px solid red;
+            }
+
+        .containerPageHeader {
+            z-index: 3;
+            width: 1890px;
+            height: 220px;
+            border: 0px solid red;
+            }
+
+        .containerMainText {
+            z-index: 3;
+            width: 1890px;
+            height: 230px;
+            border: 0px solid red;
+            }
+
+        .containerProjectHeader {
+            z-index: 1;
+            width: 1890px;
+            height: 130px;
+            border: 0px solid red;
+            }
+
+        .containerproject1 {
+            z-index: 1;
+            width: 1890px;
+            height: 1200px;
+            border: 0px solid red;
+            }
+
+        .containerproject2 {
+            z-index: 1;
+            width: 1890px;
+            height: 700px;
+            border: 0px solid red;
+            }
+        .containerproject3 {
+            z-index: 1;
+            width: 1890px;
+            height: 700px;
+            border: 0px solid red;
+            }
+        .containerfooter {
+            z-index: 1;
+            width: 1890px;
+            height: 45;
+            border: 0px solid red;
+            }        
+        body {
+            background-color:#D6C8C4;
+            width: 1890px;
+            z-index: 1;
+             }
+
+        .LOGO {
+            position: absolute;
+            z-index: 1;
+            margin-left: -900px;
+            margin-top: 5px;
+            width: 410px;
+            height: 190px;
+        }
+        .Box1 {
+            position: absolute;
+            z-index: -2;
+            background-color:#918B8F;
+            margin-left: 1270px;
+            margin-top: 0px;
+            width: 620px;
+            height: 3200px;
+            }
+
+        .Box2 {
+            position: absolute;
+            z-index: -2;
+            background-color:#DFD9B8;
+            margin-left: 0px;
+            margin-top: 0px;
+            width: 600px;
+            height: 3200px;
+            }
+        
+        h1 {
+            font-family:cursive;
+            font-size: 35pt;
+            }
+
+        h2 {
+            font-family:cursive;
+            font-size: 30pt;
+            color: #585256
+            }
+
+        h3 {
+            font-family:cursive;
+            font-size: 17pt;
+            color: #585256
+            }            
+
+        p {
+            text-indent: 30px;
+            color: #585256;
+            }    
+
+        .PageHeading {
+            position: relative;
+            width: 100%;
+            z-index: 1;
+            padding: 0px;
+            color: #585256;
+            border: 1px solid #918B8F;
+            background-color: #AECCAA;
+            clear: left;
+            text-align: center;
+            }
+            
+        .MainText {
+            background-color: #D6C8C4;
+            z-index: 1;
+            border: 1px solid #918B8F;
+            height: 200px;
+            width: 80%;
+            margin-left: 10%;
+            margin-top:10px;
+            padding: 10px;
+            font-style: normal;
+            font-size: 13pt;
+            text-align: left;
+            }
+
+        .ProjectsTitle {
+            background-color:#AECCAA;
+            z-index: 1;
+            border: 1px solid #918B8F;
+            box-sizing: border-box;
+            width: 130px;
+            margin-left: 150px;
+            margin-top: 50px;
+            height: 45px;    
+            padding: px;
+            font-family:cursive;
+            font-style: normal;
+            font-size: 20pt;
+            text-align: left;
+            text-indent: 10px;
+            }
+
+        .ProjectsHeading {
+            position: absolute;                   
+            background-color:#AECCAA;
+            z-index: 1;
+            border: 1px solid #918B8F;
+            box-sizing: border-box;
+            width: 320px;
+            margin-left: 70px;
+            margin-top: 20px;
+            height: 32px;    
+            padding: px;
+            font-family:cursive;
+            font-style: normal;
+            font-size: 15pt;
+            text-align: left;
+            text-indent: 10px;
+            }           
+
+        .img-type1 {
+            position: relative;
+            z-index: 2;
+            margin-left: 50px;
+            margin-top: 80px;
+            width: 350px;
+            height: 230px;
+            border: 1px solid #9DC3C1;
+            }
+
+        .img-type2 {
+            position: absolute;
+            z-index: 2;
+            width: 300px;
+            height: 310px;
+            border: 1px solid #9DC3C1;
+            }
+
+        .ProjectArticle {   
+            background-color: #DFD9B8;
+            z-index: 1;
+            border: 1px solid #918B8F;
+            box-sizing: border-box;
+            width: 900px;
+            height: auto;
+            margin-left: 500px;
+            margin-top: -250px;
+            padding: 20px;
+            font-style: normal;
+            font-size: 13pt;
+            text-align: left;
+            color: #585256;
+            }
+
+        .CodeboxHeading { 
+            position: absolute;                  
+            background-color:#AECCAA;
+            z-index: 3;
+            border: 1px solid black;
+            box-sizing: border-box;
+            width: 160px;
+            margin-left: 1550px;
+            height: 32px;    
+            font-family:cursive;
+            font-style: normal;
+            font-size: 15pt;
+            text-align: left;
+            text-indent: 10px;
+            }           
+            
+
+        .Codebox {
+            position: absolute;
+            overflow: scroll;
+            z-index: 2;
+            margin-left: 1450px;
+            width: 380px;
+            height: 350px;    
+            padding: 5px;
+            background-color: ghostwhite;
+            border: 1px solid #9DC3C1;
+            box-sizing: border-box;
+            font-size: 7pt;
+            }
+ 
+        footer {
+            padding: 0px;
+            color: #535153;
+            border: 2px solid #918B8F;
+            background-color: #9DC3C1;
+            clear: left;
+            text-align: center;
+            margin-top: 0px;
+            }
+
+
+            /*--index page*/
+
+        .ContainerIndexPage {
+            width: 1890px;
+            height: 1000px;
+            border: 0px solid red;
+            }
+
+
+        .ContainerMainBanner {
+            z-index: 3;
+            width: 1890px;
+            height: 110px;
+            border: 0px solid red;
+            }
+
+        .MiddleContainerIndexPage {
+            width: 1890px;
+            height: 650px;
+            border: 0px solid red;
+            }
+
+        a {
+            font-family:cursive;
+            font-size: 25pt;
+            }
+
+        .Box1-IndexPage {
+            position: absolute;
+            z-index: -2;
+            background-color:#918B8F;
+            margin-left: 1270px;
+            margin-top: 0px;
+            width: 620px;
+            height: 1000px;
+            }
+
+        .Box2-IndexPage {
+            position: absolute;
+            z-index: -2;
+            background-color:#DFD9B8;
+            margin-left: 0px;
+            margin-top: 0px;
+            width: 600px;
+            height: 1000px;
+            }
+        .banner {
+            background-color: #D6C8C4;
+            box-sizing: border-box;
+            margin-left: 10%;
+            margin-top: 10px;
+            width: 80%;
+            height: 100px;
+            text-align: center;
+            font-size: 25px;
+            color: #585256;
+            padding-top: 10px;
+            color: #585256;
+            border: 1px solid #918B8F;
+            }
+
+
+                
