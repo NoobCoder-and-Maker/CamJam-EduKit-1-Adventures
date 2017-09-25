@@ -50,7 +50,7 @@
         .containerfooter {
             z-index: 1;
             width: 1890px;
-            height: 45;
+            height: 45px;
             border: 0px solid red;
             }        
         body {
@@ -63,9 +63,9 @@
             position: absolute;
             z-index: 1;
             margin-left: -900px;
-            margin-top: 5px;
-            width: 410px;
-            height: 190px;
+            margin-top: -30px;
+            width: 440px;
+            height: 280px;
         }
         .Box1 {
             position: absolute;
@@ -144,7 +144,7 @@
             margin-left: 150px;
             margin-top: 50px;
             height: 45px;    
-            padding: px;
+            padding: 0px;
             font-family:cursive;
             font-style: normal;
             font-size: 20pt;
@@ -162,7 +162,7 @@
             margin-left: 70px;
             margin-top: 20px;
             height: 32px;    
-            padding: px;
+            padding: 0px;
             font-family:cursive;
             font-style: normal;
             font-size: 15pt;
