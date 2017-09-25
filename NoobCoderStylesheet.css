@@ -1,6 +1,6 @@
 /* NoobCoderStylesheet.css */
 
-        /* page2   */
+        /* index page.   */
         .ContainerCamJamPage {
             width: 1890px;
             height: 3200px;
@@ -125,7 +125,7 @@
             background-color: #D6C8C4;
             z-index: 1;
             border: 1px solid #918B8F;
-            height: 200px;
+            height: 230px;
             width: 80%;
             margin-left: 10%;
             margin-top:10px;
@@ -246,7 +246,7 @@
             }
 
 
-            /*--index page*/
+            /*--  about me page. */
 
         .ContainerIndexPage {
             width: 1890px;
@@ -302,7 +302,7 @@
             text-align: center;
             font-size: 25px;
             color: #585256;
-            padding-top: 10px;
+            padding: 10px;
             color: #585256;
             border: 1px solid #918B8F;
             }
