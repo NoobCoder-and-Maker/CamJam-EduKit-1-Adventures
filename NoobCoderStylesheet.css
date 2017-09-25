@@ -10,7 +10,7 @@
         .containerPageHeader {
             z-index: 3;
             width: 1890px;
-            height: 220px;
+            height: 235px;
             border: 0px solid red;
             }
 
@@ -18,12 +18,12 @@
             z-index: 3;
             width: 1890px;
             height: 280px;
-            border: 2px solid red;
+            border: 2px solid blue;
             }
 
         .containerProjectHeader {
             z-index: 1;
-            height: 30px;
+            height: 60px;
             width: 1890px;
             border: 2px solid red;
             }
@@ -32,20 +32,20 @@
             z-index: 1;
             width: 1890px;
             height: 1200px;
-            border: 0px solid red;
+            border: 2px solid green;
             }
 
         .containerproject2 {
             z-index: 1;
             width: 1890px;
             height: 700px;
-            border: 0px solid red;
+            border: 2px solid yellow;
             }
         .containerproject3 {
             z-index: 1;
             width: 1890px;
             height: 700px;
-            border: 0px solid red;
+            border: 2px solid orange;
             }
         .containerfooter {
             z-index: 1;
