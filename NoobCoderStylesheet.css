@@ -141,7 +141,7 @@
             border: 1px solid #918B8F;
             box-sizing: border-box;
             margin-left: 150px;
-            margin-top: 50px;
+            margin-top: 0px;
             padding: 15px;
             font-family:cursive;
             font-style: normal;
@@ -162,8 +162,7 @@
             font-family:cursive;
             font-style: normal;
             font-size: 15pt;
-            text-align: left;
-            text-indent: 10px;
+            text-align;
             }           
 
         .img-type1 {
@@ -211,8 +210,6 @@
             font-family:cursive;
             font-style: normal;
             font-size: 15pt;
-            text-align: left;
-            text-indent: 10px;
             }           
             
 
