@@ -17,13 +17,14 @@
         .containerMainText {
             z-index: 3;
             width: 1890px;
-            height: 230px;
+            height: 280px;
             border: 2px solid red;
             }
 
         .containerProjectHeader {
             z-index: 1;
-            
+            height: 30px;
+            width: 1890px;
             border: 2px solid red;
             }
 
