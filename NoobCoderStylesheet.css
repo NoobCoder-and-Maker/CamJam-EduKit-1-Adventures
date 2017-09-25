@@ -125,9 +125,9 @@
             background-color: #D6C8C4;
             z-index: 1;
             border: 1px solid #918B8F;
-            height: 230px;
+            height: 280px;
             width: 80%;
-            margin-left: 10%;
+            margin: auto;
             margin-top:10px;
             padding: 10px;
             font-style: normal;
@@ -264,7 +264,7 @@
 
         .MiddleContainerIndexPage {
             width: 1890px;
-            height: 650px;
+            height: 300px;
             border: 2px solid red;
             }
 
@@ -295,7 +295,7 @@
         .banner {
             background-color: #D6C8C4;
             box-sizing: border-box;
-            margin-left: 10%;
+            margin: auto;
             margin-top: 10px;
             width: 80%;
             height: 100px;
