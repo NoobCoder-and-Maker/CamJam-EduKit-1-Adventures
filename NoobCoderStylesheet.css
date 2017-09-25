@@ -23,7 +23,7 @@
 
         .containerProjectHeader {
             z-index: 1;
-            height: 70px;
+            height: 120px;
             width: 1890px;
             border: 2px solid red;
             }
@@ -141,7 +141,7 @@
             border: 1px solid #918B8F;
             box-sizing: border-box;
             margin-left: 150px;
-            margin-top: 0px;
+            margin-top: 30px;
             padding: 15px;
             font-family:cursive;
             font-style: normal;
@@ -169,7 +169,7 @@
             position: relative;
             z-index: 2;
             margin-left: 50px;
-            margin-top: 80px;
+            margin-top: 120px;
             width: 350px;
             height: 230px;
             border: 1px solid #9DC3C1;
