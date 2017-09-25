@@ -18,14 +18,13 @@
             z-index: 3;
             width: 1890px;
             height: 230px;
-            border: 0px solid red;
+            border: 2px solid red;
             }
 
         .containerProjectHeader {
             z-index: 1;
-            width: 1890px;
-            height: 130px;
-            border: 0px solid red;
+            
+            border: 2px solid red;
             }
 
         .containerproject1 {
@@ -125,8 +124,7 @@
             background-color: #D6C8C4;
             z-index: 1;
             border: 1px solid #918B8F;
-            height: 280px;
-            width: 80%;
+            box-sizing: border-box;
             margin: auto;
             margin-top:10px;
             padding: 10px;
@@ -140,10 +138,8 @@
             z-index: 1;
             border: 1px solid #918B8F;
             box-sizing: border-box;
-            width: 130px;
             margin-left: 150px;
             margin-top: 50px;
-            height: 45px;    
             padding: 0px;
             font-family:cursive;
             font-style: normal;
@@ -158,10 +154,8 @@
             z-index: 1;
             border: 1px solid #918B8F;
             box-sizing: border-box;
-            width: 320px;
             margin-left: 70px;
             margin-top: 20px;
-            height: 32px;    
             padding: 0px;
             font-family:cursive;
             font-style: normal;
@@ -210,9 +204,7 @@
             z-index: 3;
             border: 1px solid black;
             box-sizing: border-box;
-            width: 160px;
             margin-left: 1550px;
-            height: 32px;    
             font-family:cursive;
             font-style: normal;
             font-size: 15pt;
