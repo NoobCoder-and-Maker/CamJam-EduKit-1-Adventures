@@ -4,22 +4,22 @@
         .ContainerCamJamPage {
             width: 1890px;
             height: auto;
-            border: 0px solid red;
+            border: 2px solid red;
             }
 
         .containerPageHeader {
             z-index: 2;
             width: 1890px;
-            height: 200px;
-            border: 0px solid #0A4058;
+            height: auto;
+            border: 2px solid #0A4058;
             }
 
         .ContainerMainBanner {
-            z-index: 3;
-            width: 1890px;
-            height: auto;
-            margin-top: 20px;
-            border: 0px solid red;
+                z-index: 3;
+                width: 1890px;
+                height: auto;
+                margin-top: 20px;
+                border: 2px solid red;
             }
 
         .containerMainText {
@@ -27,7 +27,7 @@
             width: 1890px;
             height: auto;
             margin-top: 30px;
-            border: 0px solid blue;
+            border: 2px solid blue;
             }
 
         .containerProjectHeader {
@@ -35,7 +35,7 @@
             height: auto;
             width: 1890px;
             margin-top: 30px;
-            border: 0px solid #2BABB4;
+            border: 2px solid #2BABB4;
             }
 
         .containerproject1 {
@@ -43,28 +43,28 @@
             width: 1890px;
             height: 1200px;
             margin-top: 30px;
-            border: 0px solid green;
+            border: 2px solid green;
             }
 
         .containerproject2 {
             z-index: 1;
             width: 1890px;
-            height: 700px;
+            height: 600px;
             margin-top: 30px;            
-            border: 0px solid #2F00FF;
+            border: 2px solid #2F00FF;
             }
         .containerproject3 {
             z-index: 1;
             width: 1890px;
-            height: 700px;
+            height: 600px;
             margin-top: 30px;            
-            border: 0px solid orange;
+            border: 2px solid orange;
             }
         .containerfooter {
             z-index: 1;
             width: 1890px;
             height: auto;
-            border: 0px solid #DA349A;
+            border: 2px solid #DA349A;
             }        
         body {
             background-color:#D6C8C4;
@@ -72,24 +72,23 @@
             z-index: 1;
              }
 
-
+        .LOGO {
+            position: absolute;
+            z-index: 1;
+            margin-left: -900px;
+            margin-top: -30px;
+            width: 440px;
+            height: 280px;
+        }
         .LOGO_2 {
             position: absolute;
             z-index: 0;
-            margin-left: -450px;
-            margin-top: -175px;
-            width: 880px;
-            height: 650px;
+            margin: auto;
+            margin-top: -30px;
+            width: 440px;
+            height: 280px;
         }
 
-        .Info {
-            margin-left: 1300px;
-            font-family:cursive;
-            font-size: 15pt;
-            line-height: 70%;
-            color: #780BC0;
-
-        }
 
         .Box1 {
             position: absolute;
@@ -130,7 +129,7 @@
 
         p {
             text-indent: 30px;
-            
+            color: #585256;
             }    
 
         .PageHeading {
@@ -155,7 +154,6 @@
             font-style: normal;
             font-size: 13pt;
             text-align: left;
-            color: #585256;
             }
 
         .ProjectsTitle {
@@ -229,7 +227,7 @@
             border: 1px solid black;
             box-sizing: border-box;
             margin-left: 1550px;
-            margin-top: -300px;
+            margin-top: -250px;
             padding: 15px;
             font-family:cursive;
             font-style: normal;
@@ -245,7 +243,7 @@
             width: 380px;
             height: 350px;    
             padding: 5px;
-            margin-top: -850px;
+            margin-top: -650px;
             background-color: ghostwhite;
             border: 1px solid #9DC3C1;
             box-sizing: border-box;
@@ -305,7 +303,7 @@
             width: 1890px;
             height: auto;
             margin-top: 30px;
-            border: 0px solid #1FA540;
+            border: 2px solid #1FA540;
             }
 
         .ContainerLinkstHeader {
@@ -313,13 +311,13 @@
             height: auto;
             width: 1890px;
             margin-top: 30px;
-            border: 0px solid #2BABB4;
+            border: 2px solid #2BABB4;
             }
 
         .LinksContainerIndexPage {
             width: 1890px;
             height: auto;
-            border: 0px solid #DF531B;
+            border: 2px solid #DF531B;
             }
 
         a {
