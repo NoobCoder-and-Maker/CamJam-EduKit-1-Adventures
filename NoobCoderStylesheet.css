@@ -358,7 +358,12 @@
             color: #585256;
             border: 1px solid #918B8F;
             }
-        
+        .Twitter {
+            z-index: 3;
+            position: absolute;
+            margin-left: 1500px;
+            margin-top: 50px;
+            }
         .LinksList {
             background-color: #DFD9B8;
             z-index: 1;
