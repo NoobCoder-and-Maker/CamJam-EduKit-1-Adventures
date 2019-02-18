@@ -1,4 +1,4 @@
-![My Logo](/images/new.png)
+![My Logo](/images/small_logo.png)
 
 # NoobCoder experiments with the CamJam EduKit
 NoobCoder &amp; Maker's adventures with the Raspberry Pi and the CamJam Edukit.
