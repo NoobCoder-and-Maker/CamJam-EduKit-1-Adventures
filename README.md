@@ -6,11 +6,11 @@ NoobCoder &amp; Maker's adventures with the Raspberry Pi and the CamJam Edukit.
   Hi there, thanks for stopping by.
 My name is George and I have developed this website to showcase my electronic projects, along with the coding sources that I have used, or created, to run them. Initially I will be working with both the Raspberry Pi 3 and the Pi zero boards using the 'Python' programming language making use of the components from the 'CamJam' series of kits. Later, progressing on to using 'Python 3', to create my own scripts, to run my creations. At some stage I will also be working with the 'Arduino' platform using the Arduino Uno, Arduino Nano, Adafruit Trinket and the Adafruit Pro Trinket. Initially this will be making use of the literature that accompanies the 'Arduino Starter Kit', which will give me a sound footing to develop my oxn projects. Finally, I would like to build some of the fantastic projects available on the 'Hackster' and the 'Instructables' platforms, which are all open-source projects.
 
-# [Here's my NoobCoderAndMaker.gq Mainpage!](http://noobcoderandmaker.gq)
+# [Here's my NoobCoderAndMaker.gq Mainpage!](http://noobcoder-and-maker.gq)
 
 
 ## My twiter handle is @NoobCoder_Maker
 
-## [What about my blog, over at NoobCoderAndMakersBlog.gq!](http://noobcoderandmakersblog.gq)
+## [What about my blog, over at NoobCoder-And-Maker-Blog.gq!](http://noobcoder-and-maker-blog.gq)
 
-### [Here's a new link using my new NoobCodersCamjamAdventures.gq Domain name!](http://noobcoderscamjamadventures.gq)
+### [Here's a new link using my new NoobCoder-Camjam-Adventures.gq Domain name!](http://noobcoder-camjam-adventures.gq)
