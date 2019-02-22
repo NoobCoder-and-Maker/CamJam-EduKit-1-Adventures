@@ -1,4 +1,8 @@
-![My Logo](/images/small_logo.png)
+<div>
+  <p align="center">
+  <img src="images/NoobCoder_Logo_Icon.png">
+  </p>
+</div>
 
 # NoobCoder experiments with the CamJam EduKit
 NoobCoder &amp; Maker's adventures with the Raspberry Pi and the CamJam Edukit.
