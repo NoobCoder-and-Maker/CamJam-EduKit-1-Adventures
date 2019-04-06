@@ -16,7 +16,7 @@ Here you'll find my Twitter feed.
 ## [@NoobCoder_Maker](https://twitter.com/NoobCoder_Maker)
 
 What about my blog over at.
-## [NoobCoder-And-Maker Blog!](https://noobcoderandmakerblog.wordpress.com)
+## [NoobCoder And Maker Blog!](https://noobcoderandmakerblog.wordpress.com)
 
 Here's a link to my new CamJam website.
-## [NoobCoder-Camjam-Adventures.gq Website!](http://noobcoder-camjam-adventures.gq)
+## [NoobCoder Camjam Adventures Website!](http://noobcoder-camjam-adventures.gq)
